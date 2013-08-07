@@ -11,7 +11,6 @@ add_lunch_combo carbon_d710-userdebug
 add_lunch_combo carbon_endeavoru-userdebug
 add_lunch_combo carbon_evita-userdebug
 add_lunch_combo carbon_find5-userdebug
-add_lunch_combo carbon_flo-userdebug
 add_lunch_combo carbon_grouper-userdebug
 add_lunch_combo carbon_hercules-userdebug
 add_lunch_combo carbon_i605-userdebug
@@ -57,4 +56,5 @@ add_lunch_combo carbon_xt897c-userdebug
 add_lunch_combo carbon_xt907-userdebug
 add_lunch_combo carbon_xt925-userdebug
 add_lunch_combo carbon_xt926-userdebug
+add_lunch_combo carbon_tf300t-userdebug
 
